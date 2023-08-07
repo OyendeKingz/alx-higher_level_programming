@@ -2,7 +2,7 @@
 Project done during **Full Stack Software Engineering studies** at **ALX SE Program**. It aims to learn about variables, basics commands (print) and handle strings with **Python**.
 
 ## Technologies
-* Shell Scripts are written in Bash `#!/bib/bash`
+* Shell Scripts are written in Bash `#!/bin/bash`
 * Python Scripts are written with `Python3`
 * C files are compiled using `gcc -Wall -Werror -Wextra -pedantic -std=gnu89`
 * Tested on `Ubuntu 20.04 LTS`
