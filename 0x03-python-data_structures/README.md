@@ -3,9 +3,9 @@
 Project done during **Full Stack Software Engineering studies** at **ALX SE Program**. It aims to learn about lists, tuples and strings in **Python**.
 
 ## Technologies
-* Python Scripts are written with `Python 3.8.5`
+* Python Scripts are written with `Python 3.4`
 * C files are compiled using `gcc`
-* Tested on `Ubuntu 20.04 LTS`
+* Tested on `Ubuntu 14.04 LTS`
 
 ## Files
 | Filename | Description |
